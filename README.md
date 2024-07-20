@@ -5,13 +5,24 @@ What We Do
 We specialize in:
 
 Kubernetes (K8s) 🐳: Orchestrate your containerized applications with ease and scale effortlessly.
+
 Docker 🐋: Simplify your container management and deploy applications with confidence.
+
 Ansible 🤖: Automate your configuration management and deployment processes.
+
 Terraform 🏗️: Manage your infrastructure as code and provision resources effortlessly.
+
 GitLab 🧩: Integrate CI/CD pipelines and enhance your development workflow.
+
 Jenkins 🔧: Automate your build, test, and deployment processes for a seamless DevOps experience.
+
 Shell Scripts 💻: Automate routine tasks and simplify complex workflows with robust shell scripts.
+
 Basic Python Projects 🐍: Explore foundational Python scripts and tools for automation and data processing.
+
+
+
+
 Our Repository
 Explore our projects and contributions to these powerful tools:
 
